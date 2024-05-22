@@ -1,5 +1,7 @@
 # Markdown preview for terminal
 
+![MdP](https://github.com/NEOLabs-software/markdown-preview/assets/101670923/890ee95c-c2aa-444b-931c-51e905186244)
+
 this little nodejs program parses a markdown file and opens it at localhost with default browser
 
 pretty cool right?
