@@ -16,7 +16,7 @@ git clone https://github.com/neolabs-software/markdown-preview ; cd markdown-pre
 npm install
 sudo npm link
 ```
-
+e
 if it works, then you should be able to run markdown-preview and see an output
 
 ## using

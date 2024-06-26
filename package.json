@@ -12,8 +12,8 @@
   },
   "dependencies": {
     "express": "^4.17.1",
-    "markdown-it": "^12.0.6",
-    "open": "^8.2.1"
+    "marked": "^13.0.1",
+    "open": "^10.1.0"
   },
   "author": "NEOLabs-software",
   "license": "GPL"
