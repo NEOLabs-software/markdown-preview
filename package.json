@@ -1,6 +1,6 @@
 {
-  "name": "markdown-preview",
-  "version": "1.0.0",
+  "name": "@thayeeboi890/mdp",
+  "version": "1.1.1",
   "description": "a md preview writter in nodejs",
   "main": "server.mjs",
   "type": "module",

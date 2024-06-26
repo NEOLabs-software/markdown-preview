@@ -24,8 +24,10 @@ if it works, then you should be able to run markdown-preview and see an output
 syntax is just like
 
 ```
-markdown-preview [markdown file] [port]
+markdown-preview [markdown file] 
 ```
+
+port will **always** be 3000
 
  ### credits
 
